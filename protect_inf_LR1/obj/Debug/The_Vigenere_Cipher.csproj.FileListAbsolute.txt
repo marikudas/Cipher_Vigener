@@ -1,0 +1,9 @@
+D:\Shit\Suсks\Безпека програм та даних\Лаба №12\The Vigenere Cipher\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+D:\Shit\Suсks\Безпека програм та даних\Лаба №12\The Vigenere Cipher\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+D:\Shit\Suсks\Безпека програм та даних\Лаба №12\The Vigenere Cipher\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb
+D:\Shit\Suсks\Безпека програм та даних\Лаба №12\The Vigenere Cipher\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe
+D:\Shit\Suсks\Безпека програм та даних\Лаба №12\The Vigenere Cipher\protect_inf_LR1\bin\Debug\protect_inf_LR1.pdb
+D:\Shit\Suсks\Безпека програм та даних\Лаба №12\The Vigenere Cipher\protect_inf_LR1\obj\Debug\The_Vigenere_Cipher.csprojResolveAssemblyReference.cache
+D:\Shit\Suсks\Безпека програм та даних\Лаба №12\The Vigenere Cipher\protect_inf_LR1\obj\Debug\protect_inf_LR1.Form1.resources
+D:\Shit\Suсks\Безпека програм та даних\Лаба №12\The Vigenere Cipher\protect_inf_LR1\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+D:\Shit\Suсks\Безпека програм та даних\Лаба №12\The Vigenere Cipher\protect_inf_LR1\obj\Debug\The_Vigenere_Cipher.csproj.GenerateResource.Cache
